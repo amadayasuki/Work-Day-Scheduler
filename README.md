@@ -18,5 +18,5 @@ https://amadayasuki.github.io/Work-Day-Scheduler
 
 ### Mock Up
 The following animation demonstrates the application functionality:
-![Mock Up](http://url/to/img.png)
+![Mock Up](https://raw.githubusercontent.com/amadayasuki/Work-Day-Scheduler/main/Assets/Mock-Up.gif)
 
